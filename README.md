@@ -6,10 +6,8 @@ This repository contains a collection of different branches, each showcasing a u
 
 The repository includes the following branches, each representing a specific style of Hero template:
 
-1. **branch-name-1**: Description of the first hero template style.
-2. **branch-name-2**: Description of the second hero template style.
-3. **branch-name-3**: Description of the third hero template style.
-   ...
+1. **geek**: Hacker Theme.
+2. **Kurama**: Kurama from Naruto Theme.
    
 Feel free to explore the different branches to find the Hero template that best suits your project requirements.
 
